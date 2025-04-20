@@ -1,0 +1,10 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:02:30.000
+<c.rickroll>
+  <video autoplay loop muted
+         style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover"
+         src="https://tonpseudo.github.io/rickroll-host/rickroll.mp4">
+  </video>
+</c>
